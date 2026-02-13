@@ -1,3 +1,4 @@
+```
 charts/kfp/
 ├── Chart.yaml                        # Chart metadata: name, version, description, maintainers
 ├── values.yaml                       # Default configuration values for prod and dev
@@ -119,3 +120,5 @@ charts/kfp/
 │   │   ├── test_sync.py
 │   │   └── run_test.sh
 │   └── _helpers.tpl                     # Helm template helpers
+
+```
